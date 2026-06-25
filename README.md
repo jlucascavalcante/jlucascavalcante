@@ -23,7 +23,7 @@ Nos projetos abaixo, fui além de reproduzir tutoriais — reconstruí a modelag
 
 - **Power BI** — modelagem de dados, DAX (incluindo medidas com time intelligence, médias móveis e métricas dinâmicas), Power Query, storytelling visual
 - **Excel** — análise e organização de dados
-- **Rotinas financeiras e sistemas ERP** — vivência prática em faturamento, conciliação bancária e relatórios gerenciais
+- **Rotinas financeiras e sistemas ERP** — vivência prática em faturamento e financeiro, conciliação bancária e relatórios gerenciais
 
 ## 📚 O que estou aprendendo agora
 
